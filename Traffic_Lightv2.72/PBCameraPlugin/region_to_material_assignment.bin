@@ -1,0 +1,165 @@
+
+
+
+Concrete_1Å*Concrete
+
+YCrossing_1¥V*	YCrossing
+
+YCrossing_2ŒV*	YCrossing
+
+YCrossing_3ËV*	YCrossing
+
+YCrossing_4ÇW*	YCrossing
+
+XCrossing_1úW*	XCrossing
+
+XCrossing_2ΩW*	XCrossing
+
+YCrossing_5ﬁW*	YCrossing
+
+YCrossing_6¯W*	YCrossing
+
+XCrossing_3íX*	XCrossing
+
+XCrossing_4≥X*	XCrossing
+
+XCrossing_5‘X*	XCrossing
+
+YCrossing_7ıX*	YCrossing
+
+XCrossing_6èY*	XCrossing
+
+XCrossing_7∞Y*	XCrossing
+
+YCrossing_8—Y*	YCrossing
+
+YCrossing_9ÎY*	YCrossing
+
+YCrossing_10ÖZ*	YCrossing
+
+XCrossing_8üZ*	XCrossing
+ 
+
+FlexRoad_1¿Z*CubicSplineRoad
+ 
+
+FlexRoad_2“Z*CubicSplineRoad
+ 
+
+FlexRoad_3ÊZ*CubicSplineRoad
+ 
+
+FlexRoad_4˚Z*CubicSplineRoad
+ 
+
+FlexRoad_5ê[*CubicSplineRoad
+ 
+
+FlexRoad_6æ[*CubicSplineRoad
+ 
+
+FlexRoad_7“[*CubicSplineRoad
+ 
+
+FlexRoad_8Á[*CubicSplineRoad
+!
+StraightRoad_1¸[*StraightRoad
+!
+StraightRoad_2ê\*StraightRoad
+ 
+
+FlexRoad_9¢\*CubicSplineRoad
+!
+FlexRoad_10∂\*CubicSplineRoad
+!
+FlexRoad_11«\*CubicSplineRoad
+!
+StraightRoad_3⁄\*StraightRoad
+!
+FlexRoad_12Ï\*CubicSplineRoad
+!
+FlexRoad_13ˇ\*CubicSplineRoad
+!
+FlexRoad_14í]*CubicSplineRoad
+!
+FlexRoad_15§]*CubicSplineRoad
+!
+FlexRoad_16∂]*CubicSplineRoad
+!
+StraightRoad_4’]*StraightRoad
+!
+StraightRoad_5Á]*StraightRoad
+!
+FlexRoad_18ô^*CubicSplineRoad
+!
+StraightRoad_6Ø^*StraightRoad
+!
+FlexRoad_19¬^*CubicSplineRoad
+!
+FlexRoad_20◊^*CubicSplineRoad
+!
+FlexRoad_21Í^*CubicSplineRoad
+!
+StraightRoad_7˝^*StraightRoad
+!
+StraightRoad_8ê_*StraightRoad
+!
+FlexRoad_22£_*CubicSplineRoad
+!
+StraightRoad_9∫_*StraightRoad
+!
+FlexRoad_23Ã_*CubicSplineRoad
+!
+FlexRoad_24‡_*CubicSplineRoad
+!
+FlexRoad_25Ò_*CubicSplineRoad
+!
+FlexRoad_26æ`*CubicSplineRoad
+!
+FlexRoad_27Ÿ`*CubicSplineRoad
+!
+FlexRoad_28¸`*CubicSplineRoad
+!
+FlexRoad_30ƒa*CubicSplineRoad
+!
+FlexRoad_31›a*CubicSplineRoad
+!
+FlexRoad_32¯a*CubicSplineRoad
+!
+FlexRoad_33¸b*CubicSplineRoad
+!
+FlexRoad_34èc*CubicSplineRoad
+!
+FlexRoad_35¶c*CubicSplineRoad
+!
+FlexRoad_36πc*CubicSplineRoad
+!
+FlexRoad_37œc*CubicSplineRoad
+!
+FlexRoad_38Êc*CubicSplineRoad
+!
+FlexRoad_39Äd*CubicSplineRoad
+!
+FlexRoad_40ód*CubicSplineRoad
+!
+FlexRoad_41Æd*CubicSplineRoad
+!
+FlexRoad_42«d*CubicSplineRoad
+"
+StraightRoad_10Ùd*StraightRoad
+!
+FlexRoad_17‰h*CubicSplineRoad
+
+Ramp_1∆i*Ramp
+
+Ramp_2ÿi*Ramp
+ 
+ID_1# *TrafficLightSingleUS
+!
+ID_2ç *TrafficLightSingleUS
+!
+ID_3é *TrafficLightSingleUS
+
+CAR_Main$*Audi_A8_Sedan
+
+	CAR_Ahead°*Audi_A8_Sedan
